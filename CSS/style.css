@@ -648,6 +648,7 @@ header .mega-menu .links li a i {
 .gallery .box .image {
     position: relative;
     overflow: hidden;
+    height: calc(100% - 5px);
 }
 
 .gallery .box .image::before {
